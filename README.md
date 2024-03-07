@@ -5,7 +5,6 @@ between -180 to +180 degrees and the seven IEA 15MW airfoils
 using gen_naluwind_inp_files_ffa_w3_airfoils.py script.
 
 2. Exodus files for each AOA and airfoil is generated using mesh generation scripts.
-The scripts will become available in the repository next week.
 
 3. Directory nalu_runs/job_list subdirectory contains slurm scripts for running the static airfoil cases.
 
